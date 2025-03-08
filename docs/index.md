@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Modu_Kit"
-  text: "融合AI优点制成的简洁模块化工具箱"
-  tagline: My great project tagline
+  text: "简洁的模块化工具箱"
+  tagline: AI与人工一同制作的工具箱~
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 认识一下
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 开发文档
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 快🆒
+    details: 正在开发
+  - title: 省👇
+    details: 正在开发
+  - title: 支持拓展💖
+    details: 正在开发
 ---
 
