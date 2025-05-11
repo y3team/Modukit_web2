@@ -17,10 +17,10 @@ export default {
       ]
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/yourusername/modukit" }
+      { icon: "github", link: "https://github.com/y3team/Modukit_web2" }
     ],
     footer: {
-      message: "基于 MIT 许可证发布",
+      message: "基于 GNU GPL v3 许可证发布",
       copyright: "Copyright © 2024-present ModuKit"
     }
   }

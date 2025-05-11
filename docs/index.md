@@ -12,7 +12,7 @@ hero:
       link: /guide/modukit
     - theme: alt
       text: 在 GitHub 上查看
-      link: https://github.com/yourusername/modukit
+      link: https://github.com/y3team/Modukit_web2
 
 features:
   - icon: 🎯
